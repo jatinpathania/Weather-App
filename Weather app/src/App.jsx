@@ -151,6 +151,9 @@ function App() {
                         </div>
                     )}
                 </main>
+                <footer className="app-footer">
+                    Made with ❤️ by Jatin
+                </footer>
             </div>
         </>
     );
